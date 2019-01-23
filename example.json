@@ -1,0 +1,9 @@
+{
+    "server":"149.28.144.147",
+    "server_port":1024,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"a20121221",
+    "timeout":300,
+    "method":"salsa20"
+}
